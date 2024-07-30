@@ -1,6 +1,6 @@
-## boas vinda ao meu perfil
+## Boas Vinda ao meu perfil
 
-meu nome é souza002
+meu nome é Souza002
 
 - estou etudando na [alura](https://www.alura.com.br)
 - estou me denvolvendo na linguagem do javaScript
